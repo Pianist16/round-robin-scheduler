@@ -1,0 +1,10 @@
+{
+  "name": "round-robin-scheduler",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  },
+  "remoteUser": "vscode"
+}
