@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 21 11:04:21 2021
-
-@author: chyng
-"""
-
 #algorithm description: https://nrich.maths.org/1443
 
 #players = ['raphael', 'michelangelo', 'donatello', 'leonardo']
